@@ -1,17 +1,26 @@
 ## Hi there 👋
 
-欢迎!
+Welcome!
 
-QMessenger是基于中国聊天软件市场而设计的一款纯粹的聊天程序, 我们不是短视频软件
+## Why create QMessenger
 
-我们的目标是对标Telegram, 欢迎您参与开发
+The chat software on the market is basically capital-driven.
 
-Work In Progress
+We need an open source, secure chat software, so QMessenger was born
 
-## 重构
+## Feature
 
-我们正在重新编写qmsg的源代码,后面会全部开源
+1. Encrypted database
+2. No short videos
+3. No ads
+4. 
 
-## 联系我们
+## Disclaimer
 
-Email: chat@lunarclient.top
+QMessenger is not safer than some software. We created it to get a clean chat software, not to engage in illegal activities. If the project is used for illegal activities, I will delete all the repositories.
+
+There is nothing wrong with technology, it is the people who use it in the wrong way that are wrong
+
+## Join us
+
+You can open issues or pull requests in repositories to help us improve QMessenger
